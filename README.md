@@ -32,4 +32,4 @@
 - *Our Role**
 - we are given datasets of past employees and their status (still employed or already left).
 - our task is to build a classification model using the datasets.
-- Because there was no machine learning model for this problem in the company, you don’t have quantifiable win condition.   - we need to build the best possible model.
+- Because there was no machine learning model for this problem in the company, we don’t have quantifiable win condition.   - we need to build the best possible model.
